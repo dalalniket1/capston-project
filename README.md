@@ -204,15 +204,6 @@ Each recognized gesture is **spoken aloud** once confidence exceeds the threshol
 
 ---
 
-## 👨‍💻 Author
-
-**Vikram Madhad**
-B.Tech CSE (AI/ML), Bennett University
-Email: [[vikrammadhad@gmail.com](mailto:vikrammadhad@gmail.com)]
-Project developed for **Sign Language Recognition using CNN**
-
----
-
 ## 🏆 Acknowledgements
 
 * TensorFlow/Keras for model training
