@@ -209,9 +209,3 @@ Each recognized gesture is **spoken aloud** once confidence exceeds the threshol
 * TensorFlow/Keras for model training
 * OpenCV for image capture and preprocessing
 * Pyttsx3 for text-to-speech output
-
----
-
-## 📜 License
-
-This project is released under the **MIT License** - free to use, modify, and distribute.
